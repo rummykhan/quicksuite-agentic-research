@@ -1,0 +1,11 @@
+{
+  "name": "architecture-analysis",
+  "version": "1.0.0",
+  "description": "Marketing Command Center Architecture Documentation",
+  "scripts": {
+    "dev": "docsify serve ."
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
